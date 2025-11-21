@@ -915,3 +915,11 @@ config/database.yml
 *.zip
 
 # ===== END =====
+
+# Additional Next.js specific
+node_modules
+.next
+out
+.env*.local
+.DS_Store
+*.log
